@@ -39,5 +39,5 @@ I am currently working on:
 To become a skilled Data Analyst capable of turning data into actionable insights.
 
 ## 🔗 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/bharti-shinde
+- LinkedIn:https://www.linkedin.com/in/bharti-shinde-6009033b5
 - GitHub: https://github.com/Bharti856
