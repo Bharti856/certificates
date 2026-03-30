@@ -4,7 +4,7 @@
 - Learned data cleaning, visualization, and basic analytics concepts  
 - Tools: Excel, Power BI, Tableau  
 
-![Certificate](data-analytics-masterclass.jpeg)
+![Certificate](data-analytics-masterclass.png)
 
 ---
 
